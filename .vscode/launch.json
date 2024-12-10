@@ -1,0 +1,16 @@
+{
+    "configurations": [
+        {
+            "name": "cravoecanela (Flutter)",
+            "program": "lib/main.dart",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "cravoecanela (Flutter)",
+            "program": "lib/main.dart",
+            "request": "launch",
+            "type": "dart"
+        }
+    ]
+}
